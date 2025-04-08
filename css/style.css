@@ -227,7 +227,7 @@ nav ul li a {
     text-align: center;
     color: #fff;
     padding: 100px 20px;
-    background-image: url('../../public/images/logo.png');
+    background-image: url('/images/logo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -355,6 +355,7 @@ hr {
     border-top: 2px solid #111;
     margin: 10px 0;
 }
+
 /* Blog Css */
 
 body {
@@ -392,7 +393,7 @@ nav ul li a {
 }
 
 .hero {
-    background: url('../../public/images/blog-bg.png') no-repeat center center/cover;
+    background: url('/images/blog-bg.png') no-repeat center center/cover;
     height: 400px;
     display: flex;
     justify-content: center;
